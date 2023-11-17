@@ -68,6 +68,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitattributes" />
+    <Content Include=".gitignore" />
     <Content Include="App_Data\KarateSchool.mdf" />
     <Content Include="App_Data\KarateSchool_log.ldf">
       <DependentUpon>KarateSchool.mdf</DependentUpon>
